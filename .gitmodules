@@ -25,3 +25,6 @@
 [submodule "random-assets"]
 	path = random-assets
 	url = https://github.com/aratheunseen/random-assets.git
+[submodule "aragle-assets"]
+	path = aragle-assets
+	url = https://github.com/aratheunseen/aragle-assets.git
