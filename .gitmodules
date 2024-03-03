@@ -28,3 +28,6 @@
 [submodule "aragle-assets"]
 	path = aragle-assets
 	url = https://github.com/aratheunseen/aragle-assets.git
+[submodule "flutter-task-manager-assets"]
+	path = flutter-task-manager-assets
+	url = https://github.com/aratheunseen/flutter-task-manager-assets.git
