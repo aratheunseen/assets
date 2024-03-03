@@ -10,3 +10,6 @@
 [submodule "varatia-assets"]
 	path = varatia-assets
 	url = https://github.com/aratheunseen/varatia-assets.git
+[submodule "nintox-assets"]
+	path = nintox-assets
+	url = https://github.com/aratheunseen/nintox-assets.git
