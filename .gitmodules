@@ -4,3 +4,9 @@
 [submodule "BinoBANG-assets"]
 	path = BinoBANG-assets
 	url = https://github.com/aratheunseen/BinoBANG-assets.git
+[submodule "baeable-assets"]
+	path = baeable-assets
+	url = https://github.com/aratheunseen/baeable-assets.git
+[submodule "varatia-assets"]
+	path = varatia-assets
+	url = https://github.com/aratheunseen/varatia-assets.git
