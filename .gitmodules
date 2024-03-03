@@ -1,0 +1,3 @@
+[submodule "aparichita-assets"]
+	path = aparichita-assets
+	url = https://github.com/aratheunseen/aparichita-assets.git
