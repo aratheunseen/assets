@@ -1,3 +1,6 @@
 [submodule "aparichita-assets"]
 	path = aparichita-assets
 	url = https://github.com/aratheunseen/aparichita-assets.git
+[submodule "BinoBANG-assets"]
+	path = BinoBANG-assets
+	url = https://github.com/aratheunseen/BinoBANG-assets.git
