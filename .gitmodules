@@ -13,3 +13,6 @@
 [submodule "nintox-assets"]
 	path = nintox-assets
 	url = https://github.com/aratheunseen/nintox-assets.git
+[submodule "wywcom-assets"]
+	path = wywcom-assets
+	url = https://github.com/aratheunseen/wywcom-assets.git
