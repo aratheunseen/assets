@@ -22,3 +22,6 @@
 [submodule "chatgpt-with-assets"]
 	path = chatgpt-with-assets
 	url = https://github.com/aratheunseen/chatgpt-with-assets
+[submodule "random-assets"]
+	path = random-assets
+	url = https://github.com/aratheunseen/random-assets.git
